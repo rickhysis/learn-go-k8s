@@ -1,5 +1,5 @@
 # learn-go-k8s 
-Learn building a sample Go applicaton in Kubernetes
+Learning build a sample Go applicaton in Kubernetes
 
 ## Getting Started
 First, clone the repo via git:
